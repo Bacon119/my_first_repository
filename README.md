@@ -1,1 +1,5 @@
-# my_first_repository
+# My First Repository
+
+Favourite Food
+-Apple
+-Banana
